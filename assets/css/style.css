@@ -72,6 +72,7 @@ nav ul, nav li {
     flex-direction: column;
     justify-content: center;
     color: #fff;
+    margin-bottom: 30px;
 }
 
 .banner_headline h1 {
