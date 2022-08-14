@@ -100,13 +100,15 @@ nav li {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  color: #2A72B5;
+  color: var(--branco-base-letras);
   margin-bottom: 3rem;
+  text-shadow: 0px 1px 0px #555;
 }
 
 .banner_headline h1 {
   max-width: 35rem;
   font-size: 5.5rem;
+  text-shadow: 0px 1px 0px #555;
 }
 
 .banner_headline h2 {
